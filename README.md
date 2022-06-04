@@ -5,6 +5,9 @@ Just right click on an image
 
 ## 🔎 Search engines
 * [Google Images](https://images.google.com/)
-* [SauceNAO](https://saucenao.com)
+* [Bing](https://www.bing.com/visualsearch/Microsoft/SimilarImages)
+* [TinEye](https://tineye.com/)
+* [Yandex](https://yandex.com/images/)
 * [Trace.moe](https://trace.moe)
 * [IQDB](https://iqdb.org)
+* [SauceNAO](https://saucenao.com)
